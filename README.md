@@ -77,7 +77,6 @@ This project is a simple CRUD (Create, Read, Update, Delete) TODO application bu
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -97,12 +96,12 @@ To get a local copy up and running follow these simple example steps.
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+
+1. Clone the repo
    ```sh
    git clone https://github.com/LakshyaSuthar03/CRUD_TODO
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    cd backend
    npm install
@@ -110,7 +109,7 @@ _Below is an example of how you can instruct your audience on installing and set
    cd frontend
    npm install
    ```
-4. Setup Environment 
+3. Setup Environment 
    ```js
     MONGODB_URI = 'mongodb+srv://username:<Password>@cluster0.o01tzdk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0';
    ```
